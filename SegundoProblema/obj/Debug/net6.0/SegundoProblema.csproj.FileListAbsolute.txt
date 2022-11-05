@@ -1,0 +1,15 @@
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\bin\Debug\net6.0\SegundoProblema.exe
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\bin\Debug\net6.0\SegundoProblema.deps.json
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\bin\Debug\net6.0\SegundoProblema.runtimeconfig.json
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\bin\Debug\net6.0\SegundoProblema.dll
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\bin\Debug\net6.0\ref\SegundoProblema.dll
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\bin\Debug\net6.0\SegundoProblema.pdb
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.csproj.AssemblyReference.cache
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.AssemblyInfoInputs.cache
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.AssemblyInfo.cs
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.csproj.CoreCompileInputs.cache
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.dll
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\obj\Debug\net6.0\ref\SegundoProblema.dll
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.pdb
+C:\Ciclo 5\Hackaton\SegundoProblema\SegundoProblema\obj\Debug\net6.0\SegundoProblema.genruntimeconfig.cache
