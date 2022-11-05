@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ciclo 5\\Hackaton\\SegundoProblema\\SegundoProblema\\SegundoProblema.csproj": {}
+    "C:\\Users\\mario\\OneDrive\\Escritorio\\Programación\\Hackaton\\Hackaton2022\\SegundoProblema\\SegundoProblema.csproj": {}
   },
   "projects": {
-    "C:\\Ciclo 5\\Hackaton\\SegundoProblema\\SegundoProblema\\SegundoProblema.csproj": {
+    "C:\\Users\\mario\\OneDrive\\Escritorio\\Programación\\Hackaton\\Hackaton2022\\SegundoProblema\\SegundoProblema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ciclo 5\\Hackaton\\SegundoProblema\\SegundoProblema\\SegundoProblema.csproj",
+        "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Escritorio\\Programación\\Hackaton\\Hackaton2022\\SegundoProblema\\SegundoProblema.csproj",
         "projectName": "SegundoProblema",
-        "projectPath": "C:\\Ciclo 5\\Hackaton\\SegundoProblema\\SegundoProblema\\SegundoProblema.csproj",
-        "packagesPath": "C:\\Users\\Oscar José\\.nuget\\packages\\",
-        "outputPath": "C:\\Ciclo 5\\Hackaton\\SegundoProblema\\SegundoProblema\\obj\\",
+        "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Programación\\Hackaton\\Hackaton2022\\SegundoProblema\\SegundoProblema.csproj",
+        "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Programación\\Hackaton\\Hackaton2022\\SegundoProblema\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Oscar José\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
