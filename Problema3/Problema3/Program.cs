@@ -1,5 +1,5 @@
-﻿Console.WriteLine("Ingrese el número del cual desea sacar el factorial");
-try {
+﻿try {
+    Console.WriteLine("Ingrese el número del cual desea sacar el factorial");
     int input = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Resultado: " + factorial(input));
 }
